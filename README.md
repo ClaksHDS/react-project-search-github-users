@@ -31,7 +31,7 @@ export default ReactComponent
 [React Icons - Main Docs](https://react-icons.github.io/react-icons/)
 
 ```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
+import { FiUsers, FiUserPlus } from "react-icons/fi";
 <FiUsers className='nameOfTheClass'> </FiUsers>;
 ```
 
@@ -47,7 +47,7 @@ version used - "react-router-dom": "^5.2.0",
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
+- [Get User](https://api.github.com/users/ClaksHDS)
 - [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
 - [Followers](https://api.github.com/users/john-smilga/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
